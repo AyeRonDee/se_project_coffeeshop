@@ -49,9 +49,7 @@
 }
 
 .header__title {
-  margin: 183px 0 0;
   max-width: 729px;
-
   font-style: normal;
   font-weight: 500;
   font-size: 60px;
@@ -59,7 +57,8 @@
   letter-spacing: -0.6px;
 }
 
-.header__span_accent {
+.header__title_accent {
+  margin: 183px 0 0;
   display: block;
   font-family: "Noto Serif";
   font-style: italic;
