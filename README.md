@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+Future plans include a photo carousel to allow visitors to immerse themselves into the Triple Peaks enviroment, whether they are experiencing it in person, or viturally.
