@@ -1,6 +1,4 @@
 {
-  // if you have any existing settings, they should go here
-  // otherwise, delete these two lines
   "[css]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
