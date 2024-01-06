@@ -16,13 +16,14 @@
   box-sizing: border-box;
   margin: 8px 0 32px;
   border-radius: 4px;
-}
-
-.form__input::placeholder {
+  border-color: #838383;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
   line-height: 30px;
+}
+
+.form__input::placeholder {
   color: #838383;
 }
 
@@ -39,11 +40,8 @@
   line-height: 20px;
   background-color: #2f80ed;
   color: #fff;
+  border: none;
   transition: opacity 0.3s ease-in;
-}
-
-.form__button:hover {
-  opacity: 70%;
 }
 
 .form__button:hover {
